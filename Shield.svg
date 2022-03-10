@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-shield-check" width="40" height="40" viewBox="0 0 24 24" 
+stroke-width="1.5" stroke="#ffd012" fill="#ffd012" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="#FCF5A3"/>
+  <path d="M12 3a12 12 0 0 0 8.5 3a12 12 0 0 1 -8.5 15a12 12 0 0 1 -8.5 -15a12 12 0 0 0 8.5 -3" fill="#ffd012"/>
+  <path d="M9 12l2 2l4 -4" stroke="#ffffff" fill="#ffd012"/>
+</svg>
